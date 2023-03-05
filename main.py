@@ -12,3 +12,6 @@ name[21] = input("masukkan nama: ")
 
 # print latest dictionary
 print(name)
+
+# adding ---
+print("---".center(50, "-"))
