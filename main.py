@@ -14,4 +14,4 @@ name[21] = input("masukkan nama: ")
 print(name)
 
 # adding ---
-print("---".center(50, "-"))
+print("---".center(30, "-"))
