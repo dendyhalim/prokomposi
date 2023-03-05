@@ -12,3 +12,5 @@ name[21] = input("masukkan nama: ")
 
 # print latest dictionary
 print(name)
+import os
+os.system("python main.py")
