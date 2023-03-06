@@ -9,5 +9,6 @@ data = {"nama": "safri", "kelas": "KLS D", "nim": 123}
 
 print(nama_depan)
 print("nama saya adalah safri")
+print("test")
 
 print(f"nama saya adalah {nama_depan} {nama_blk} dari kelas {data['kelas']}")
